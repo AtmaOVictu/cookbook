@@ -1,0 +1,10 @@
+UNVERIFIED  vbl/README.md
+UNVERIFIED  vbl/canon/VBL-10.3.1-LICENSE.md
+UNVERIFIED  vbl/canon/PROVENANCE.md
+UNVERIFIED  vbl/registers/README.md
+UNVERIFIED  vbl/registers/REGISTER-NEIMENOVANIH.jsonl
+UNVERIFIED  vbl/registers/REGISTER-PADCEV.jsonl
+UNVERIFIED  vbl/history/HISTORY.md
+UNVERIFIED  vbl/implementation/VERIFICATION-CHECKLIST.md
+UNVERIFIED  vbl/REPO-MAP.md
+(SHA256SUMS.txt se ne sešteva vase — datoteka ⟨ne⟩ vsebuje lastnega hasha ⊢ §0a)
